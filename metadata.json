@@ -1,0 +1,6 @@
+{
+  "name": "My Grocery List",
+  "description": "A clean, fast grocery shopping list app for everyday planning and effortless shopping trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
